@@ -1,5 +1,5 @@
 
-export default function Home() {
+export default function Home() { return <h1>It builds!</h1>; }
   return (
     <main style={{ fontFamily: 'sans-serif', padding: '2rem' }}>
       <h1>It builds! 🎉</h1>
